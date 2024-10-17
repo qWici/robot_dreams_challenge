@@ -8,6 +8,7 @@
 node idea1.js
 node idea2.js
 ```
+![screenshot node](https://github.com/qWici/robot_dreams_challenge/blob/main/screenshot-node.png)
 
 ### Без Node.js
 - Скопіюйте вміст файлу
